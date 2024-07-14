@@ -8,7 +8,7 @@ Use the NLTK library to open a corpus and perform different types of analysis.
 
 Complete the following tasks. Make sure to write clean, commented, and well-structured code for each task. Non-commented code will be penalized. Submit your jupyter notebook file as YOURNAME_SURNAME_assignment3.ipynb
 
-## Overview
+# 📋 Project Overview
 ### Subtask 1: Install and Import NLTK
 - Install the NLTK library if you haven't already.
 - Import the necessary modules from NLTK.
