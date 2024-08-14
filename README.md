@@ -1,12 +1,4 @@
-# Assignment: NLTK Corpora Analysis 📚
-
-## Objective
-
-Use the NLTK library to open a corpus and perform different types of analysis.
-
-## Instructions
-
-Complete the following tasks. Make sure to write clean, commented, and well-structured code for each task. Non-commented code will be penalized. Submit your jupyter notebook file as YOURNAME_SURNAME_assignment3.ipynb
+# NLTK Corpora Analysis 📚
 
 # 📋 Project Overview
 ### Subtask 1: Install and Import NLTK
@@ -28,7 +20,6 @@ Complete the following tasks. Make sure to write clean, commented, and well-stru
 - Stem each word token and print the original token, its POS tag, and its stem.
 - Lemmatize each word token and print the original token and its lemma.
 - Create a frequency distribution of the word tokens and plot the top 20 words.
-
 
 
 ## 🔑 Key Skills
